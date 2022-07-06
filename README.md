@@ -1,2 +1,2 @@
 # Uplink
-MERN Stack application similar to LinkedIn to more fun!
+MERN Stack application similar to LinkedIn but more fun!
